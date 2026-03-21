@@ -18,4 +18,4 @@
 
 ---
 
-**learning:** python, java and c++
+**learning:** java, c++
