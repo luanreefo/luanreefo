@@ -5,7 +5,7 @@
   
   <div>
     
-  #### hi, i'm a 19-year-old programming enthusiat  
+  #### hi, i'm a 20 year old programming enthusiat  
   [![wakatime](https://wakatime.com/badge/user/7aaba1ea-ac62-4799-af5c-4e052a5caa8b.svg)](https://wakatime.com/@7aaba1ea-ac62-4799-af5c-4e052a5caa8b)
 
   ##### college student
@@ -18,4 +18,4 @@
 
 ---
 
-**learning:** java, c++
+**learning:** java, c
